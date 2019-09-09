@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dollar-react/static/css/main.05f46209.chunk.css",
+    "main.js": "/dollar-react/static/js/main.d0c44fb3.chunk.js",
+    "main.js.map": "/dollar-react/static/js/main.d0c44fb3.chunk.js.map",
+    "runtime~main.js": "/dollar-react/static/js/runtime~main.12986b25.js",
+    "runtime~main.js.map": "/dollar-react/static/js/runtime~main.12986b25.js.map",
+    "static/js/2.0847caae.chunk.js": "/dollar-react/static/js/2.0847caae.chunk.js",
+    "static/js/2.0847caae.chunk.js.map": "/dollar-react/static/js/2.0847caae.chunk.js.map",
+    "index.html": "/dollar-react/index.html",
+    "precache-manifest.04b818e84c390c1d26bd2c0fab6bc6fe.js": "/dollar-react/precache-manifest.04b818e84c390c1d26bd2c0fab6bc6fe.js",
+    "service-worker.js": "/dollar-react/service-worker.js",
+    "static/css/main.05f46209.chunk.css.map": "/dollar-react/static/css/main.05f46209.chunk.css.map"
+  }
+}
